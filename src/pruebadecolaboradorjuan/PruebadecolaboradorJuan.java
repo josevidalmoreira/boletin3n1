@@ -7,6 +7,7 @@ public class PruebadecolaboradorJuan {
         // Modificación numero 1.
         //Exito en las pruebas.
         //Prueba para Jose.
+        // jose 
     }
     
 }
