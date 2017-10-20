@@ -6,6 +6,7 @@ public class PruebadecolaboradorJuan {
         // Prueba para que arturo clone el repositorio.
         // Modificación numero 1.
         //Exito en las pruebas.
+        //Prueba para Jose.
     }
     
 }
